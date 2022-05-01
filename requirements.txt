@@ -1,0 +1,11 @@
+aiohttp==3.7.4.post0
+aioftp==0.20.1
+alive-progress==2.0.0
+asyncssh==2.8.1
+beautifulsoup4==4.10.0
+Jinja2==3.0.3
+schema==0.7.5
+validators==0.18.2
+requests==2.27.1
+aiomysql==0.0.22
+prettytable==3.2.0

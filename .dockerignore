@@ -1,0 +1,9 @@
+.pylintrc
+.dockerignore
+.gitignore
+LICENSE.txt
+README.md
+MANIFEST.in
+Dockerfile
+pyproject.toml
+setup.cfg

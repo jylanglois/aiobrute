@@ -1,0 +1,5 @@
+[MESSAGES CONTROL]
+disable = C
+
+[TYPECHECK]
+ignored-classes=SeparatorAction

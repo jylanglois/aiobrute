@@ -1,0 +1,2 @@
+include resources/templates/*.jinja2
+include resources/wordlists/*.txt

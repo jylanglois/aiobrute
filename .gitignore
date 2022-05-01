@@ -1,0 +1,9 @@
+# Python
+.venv/
+*.py[cod]
+*.egg-info
+*.eggs
+dist
+
+# vscode
+.vscode
